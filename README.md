@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm @Henrik👋
 
-<!--
-**HenrikHolmen/HenrikHolmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student <br>
+⌛ MSc in Artificial Intelligence @ [DTU](https://www.dtu.dk/english/) <br>
+✅ BSc in Artificial Intelligence @ [DTU](https://www.dtu.dk/english/) <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🛠️ Not a stranger to `python`
+  * Favourite Languages: `python` and `R`
+  * Current Field: `AI`
+* 🌱 Currently studying Human-Centered Artificial Intelligence
+  * Interested mainly in how AI can help users and companies.
+  * Took courses covering various topics, from `Search-driven AI` to more advanced `Deep Learning` techniques.
+* 📫 How to reach me - s210650@student.dtu.dk
